@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\leetcode\\lc3\\lc3\\lc3.csproj",
+      "projectUniqueName": "D:\\Programming\\LC_Solutions\\lc3\\lc3\\lc3.csproj",
       "projectName": "lc3",
-      "projectPath": "D:\\Programming\\leetcode\\lc3\\lc3\\lc3.csproj",
+      "projectPath": "D:\\Programming\\LC_Solutions\\lc3\\lc3\\lc3.csproj",
       "packagesPath": "C:\\Users\\dougl\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\leetcode\\lc3\\lc3\\obj\\",
+      "outputPath": "D:\\Programming\\LC_Solutions\\lc3\\lc3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -68,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

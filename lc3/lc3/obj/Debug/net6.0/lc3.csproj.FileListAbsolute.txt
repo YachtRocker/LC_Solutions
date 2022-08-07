@@ -1,0 +1,15 @@
+D:\Programming\LC_Solutions\lc3\lc3\bin\Debug\net6.0\lc3.exe
+D:\Programming\LC_Solutions\lc3\lc3\bin\Debug\net6.0\lc3.deps.json
+D:\Programming\LC_Solutions\lc3\lc3\bin\Debug\net6.0\lc3.runtimeconfig.json
+D:\Programming\LC_Solutions\lc3\lc3\bin\Debug\net6.0\lc3.dll
+D:\Programming\LC_Solutions\lc3\lc3\bin\Debug\net6.0\lc3.pdb
+D:\Programming\LC_Solutions\lc3\lc3\obj\Debug\net6.0\lc3.csproj.AssemblyReference.cache
+D:\Programming\LC_Solutions\lc3\lc3\obj\Debug\net6.0\lc3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\LC_Solutions\lc3\lc3\obj\Debug\net6.0\lc3.AssemblyInfoInputs.cache
+D:\Programming\LC_Solutions\lc3\lc3\obj\Debug\net6.0\lc3.AssemblyInfo.cs
+D:\Programming\LC_Solutions\lc3\lc3\obj\Debug\net6.0\lc3.csproj.CoreCompileInputs.cache
+D:\Programming\LC_Solutions\lc3\lc3\obj\Debug\net6.0\lc3.dll
+D:\Programming\LC_Solutions\lc3\lc3\obj\Debug\net6.0\refint\lc3.dll
+D:\Programming\LC_Solutions\lc3\lc3\obj\Debug\net6.0\lc3.pdb
+D:\Programming\LC_Solutions\lc3\lc3\obj\Debug\net6.0\lc3.genruntimeconfig.cache
+D:\Programming\LC_Solutions\lc3\lc3\obj\Debug\net6.0\ref\lc3.dll
