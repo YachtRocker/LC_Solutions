@@ -1,0 +1,15 @@
+D:\Programming\leetcode\lc21\lc21\obj\Debug\net6.0\lc21.csproj.AssemblyReference.cache
+D:\Programming\leetcode\lc21\lc21\obj\Debug\net6.0\lc21.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\leetcode\lc21\lc21\obj\Debug\net6.0\lc21.AssemblyInfoInputs.cache
+D:\Programming\leetcode\lc21\lc21\obj\Debug\net6.0\lc21.AssemblyInfo.cs
+D:\Programming\leetcode\lc21\lc21\obj\Debug\net6.0\lc21.csproj.CoreCompileInputs.cache
+D:\Programming\leetcode\lc21\lc21\bin\Debug\net6.0\lc21.exe
+D:\Programming\leetcode\lc21\lc21\bin\Debug\net6.0\lc21.deps.json
+D:\Programming\leetcode\lc21\lc21\bin\Debug\net6.0\lc21.runtimeconfig.json
+D:\Programming\leetcode\lc21\lc21\bin\Debug\net6.0\lc21.dll
+D:\Programming\leetcode\lc21\lc21\bin\Debug\net6.0\lc21.pdb
+D:\Programming\leetcode\lc21\lc21\obj\Debug\net6.0\lc21.dll
+D:\Programming\leetcode\lc21\lc21\obj\Debug\net6.0\refint\lc21.dll
+D:\Programming\leetcode\lc21\lc21\obj\Debug\net6.0\lc21.pdb
+D:\Programming\leetcode\lc21\lc21\obj\Debug\net6.0\lc21.genruntimeconfig.cache
+D:\Programming\leetcode\lc21\lc21\obj\Debug\net6.0\ref\lc21.dll

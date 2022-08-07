@@ -1,0 +1,15 @@
+C:\Users\dougl\OneDrive\Documents\leetcode\lc15\bin\Debug\net6.0\lc15.exe
+C:\Users\dougl\OneDrive\Documents\leetcode\lc15\bin\Debug\net6.0\lc15.deps.json
+C:\Users\dougl\OneDrive\Documents\leetcode\lc15\bin\Debug\net6.0\lc15.runtimeconfig.json
+C:\Users\dougl\OneDrive\Documents\leetcode\lc15\bin\Debug\net6.0\lc15.dll
+C:\Users\dougl\OneDrive\Documents\leetcode\lc15\bin\Debug\net6.0\lc15.pdb
+C:\Users\dougl\OneDrive\Documents\leetcode\lc15\obj\Debug\net6.0\lc15.csproj.AssemblyReference.cache
+C:\Users\dougl\OneDrive\Documents\leetcode\lc15\obj\Debug\net6.0\lc15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\OneDrive\Documents\leetcode\lc15\obj\Debug\net6.0\lc15.AssemblyInfoInputs.cache
+C:\Users\dougl\OneDrive\Documents\leetcode\lc15\obj\Debug\net6.0\lc15.AssemblyInfo.cs
+C:\Users\dougl\OneDrive\Documents\leetcode\lc15\obj\Debug\net6.0\lc15.csproj.CoreCompileInputs.cache
+C:\Users\dougl\OneDrive\Documents\leetcode\lc15\obj\Debug\net6.0\lc15.dll
+C:\Users\dougl\OneDrive\Documents\leetcode\lc15\obj\Debug\net6.0\refint\lc15.dll
+C:\Users\dougl\OneDrive\Documents\leetcode\lc15\obj\Debug\net6.0\lc15.pdb
+C:\Users\dougl\OneDrive\Documents\leetcode\lc15\obj\Debug\net6.0\lc15.genruntimeconfig.cache
+C:\Users\dougl\OneDrive\Documents\leetcode\lc15\obj\Debug\net6.0\ref\lc15.dll
