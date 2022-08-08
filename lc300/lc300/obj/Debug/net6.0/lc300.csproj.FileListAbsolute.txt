@@ -1,0 +1,15 @@
+D:\Programming\LC_Solutions\lc300\lc300\bin\Debug\net6.0\lc300.exe
+D:\Programming\LC_Solutions\lc300\lc300\bin\Debug\net6.0\lc300.deps.json
+D:\Programming\LC_Solutions\lc300\lc300\bin\Debug\net6.0\lc300.runtimeconfig.json
+D:\Programming\LC_Solutions\lc300\lc300\bin\Debug\net6.0\lc300.dll
+D:\Programming\LC_Solutions\lc300\lc300\bin\Debug\net6.0\lc300.pdb
+D:\Programming\LC_Solutions\lc300\lc300\obj\Debug\net6.0\lc300.csproj.AssemblyReference.cache
+D:\Programming\LC_Solutions\lc300\lc300\obj\Debug\net6.0\lc300.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\LC_Solutions\lc300\lc300\obj\Debug\net6.0\lc300.AssemblyInfoInputs.cache
+D:\Programming\LC_Solutions\lc300\lc300\obj\Debug\net6.0\lc300.AssemblyInfo.cs
+D:\Programming\LC_Solutions\lc300\lc300\obj\Debug\net6.0\lc300.csproj.CoreCompileInputs.cache
+D:\Programming\LC_Solutions\lc300\lc300\obj\Debug\net6.0\lc300.dll
+D:\Programming\LC_Solutions\lc300\lc300\obj\Debug\net6.0\refint\lc300.dll
+D:\Programming\LC_Solutions\lc300\lc300\obj\Debug\net6.0\lc300.pdb
+D:\Programming\LC_Solutions\lc300\lc300\obj\Debug\net6.0\lc300.genruntimeconfig.cache
+D:\Programming\LC_Solutions\lc300\lc300\obj\Debug\net6.0\ref\lc300.dll
