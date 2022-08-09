@@ -5,7 +5,7 @@ Console.WriteLine(LengthOfLIS(lst));
 
 static int LengthOfLIS(int[] nums)
 {
-    List<int> LIS = new List<int>(nums.Length);
+    List<int> LIS = new List<int>();
 
     for (int i = 0; i < nums.Length; i++)
     {
