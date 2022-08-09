@@ -37,7 +37,10 @@ IList<IList<int>> res = new List<IList<int>>();  // How to print out this?
 
 res = CombinationSum(candidates, target);
 
-foreach (var item in res)
+foreach (var list in res)
 {
-    Console.WriteLine(item.ToString);
+    foreach (var number in list)
+    {
+        Console.WriteLine(number);
+    }
 }
