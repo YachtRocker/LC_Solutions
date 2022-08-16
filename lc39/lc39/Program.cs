@@ -1,13 +1,12 @@
 ﻿// Leetcode 39 - Combination Sum
 
-// Using recursion tree
+// DFS
 
 static IList<IList<int>> CombinationSum(int[] candidates, int target)
 {
     
     IList<IList<int>> res = new List<IList<int>>();
-    int candidatesLen = candidates.Length;  
-    
+    List<int> cur = new List<int>();    
 
     static void dfs(int i, List<int> cur, int total, IList<IList<int>> res, int target, int[] candidates)
     {
@@ -21,19 +20,25 @@ static IList<IList<int>> CombinationSum(int[] candidates, int target)
             return;
         }
 
-        cur.Append(candidates[i]);
+        cur.Add(candidates[i]);
         dfs(i, cur, total, res, target, candidates);
         cur.RemoveAt(0);
         dfs(i + 1, cur, total, res, target, candidates);
     }
 
+    dfs(0, cur, 0, res, target, candidates);
+
     return res;
 }
+
+
+
+
 
 int[] candidates = { 2, 3, 6, 7 };
 int target = 7;
 
-IList<IList<int>> res = new List<IList<int>>();  // How to print out this?
+IList<IList<int>> res = new List<IList<int>>();  
 
 res = CombinationSum(candidates, target);
 
@@ -44,3 +49,6 @@ foreach (var list in res)
         Console.WriteLine(number);
     }
 }
+
+// TODO - Nothing is being output figure out why
+// TODO - Stack Overflow, just keeps looping
