@@ -1,42 +1,44 @@
 ﻿// Leetcode 39 - Combination Sum
 
-// DFS
+// DFS = Depth First Search
 
 static IList<IList<int>> CombinationSum(int[] candidates, int target)
-{
+{    
+    var res = new List<IList<int>>();    
     
-    IList<IList<int>> res = new List<IList<int>>();
-    List<int> cur = new List<int>();    
-
-    static void dfs(int i, List<int> cur, int total, IList<IList<int>> res, int target, int[] candidates)
+    if (candidates.Length == 0)
     {
-        if (total == target)
-        {
-            res.Add(cur);
-            return;
-        }
-        if (i >= candidates.Length || total > target)
-        {
-            return;
-        }
-
-        cur.Add(candidates[i]);
-        dfs(i, cur, total, res, target, candidates);
-        cur.RemoveAt(0);
-        dfs(i + 1, cur, total, res, target, candidates);
+        return res;
     }
 
-    dfs(0, cur, 0, res, target, candidates);
+    Array.Sort(candidates);
+
+    dfs(candidates, target, 0, new List<int>(), res);
 
     return res;
 }
 
 
+static void dfs(int[] candidates, int target, int start, IList<int> oneResult, IList<IList<int>> result)
+{
+    if(target == 0)
+    {
+        result.Add(new List<int>(oneResult)); 
+    }
+    else if(target > 0)
+    {
+        for (int i = start; i < candidates.Length; i++)
+        {
+            oneResult.Add(candidates[i]);
+            dfs(candidates, target - candidates[i], i, oneResult, result);
+            oneResult.RemoveAt(oneResult.Count - 1);
+        }   
+    }
+}
 
 
-
-int[] candidates = { 2, 3, 6, 7 };
-int target = 7;
+int[] candidates = { 2, 3, 5 };
+int target = 8;
 
 IList<IList<int>> res = new List<IList<int>>();  
 
@@ -50,5 +52,5 @@ foreach (var list in res)
     }
 }
 
-// TODO - Nothing is being output figure out why
-// TODO - Stack Overflow, just keeps looping
+// TODO - Make a nice printout
+
