@@ -37,6 +37,8 @@ static void dfs(int[] candidates, int target, int start, IList<int> oneResult, I
 }
 
 
+
+
 int[] candidates = { 2, 3, 5 };
 int target = 8;
 
@@ -46,10 +48,13 @@ res = CombinationSum(candidates, target);
 
 foreach (var list in res)
 {
+    Console.Write("[");
     foreach (var number in list)
     {
-        Console.WriteLine(number);
+        Console.Write(number);
     }
+    Console.Write("]");
+
 }
 
 // TODO - Make a nice printout
