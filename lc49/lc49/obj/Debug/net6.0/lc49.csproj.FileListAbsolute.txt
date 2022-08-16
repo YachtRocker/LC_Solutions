@@ -1,0 +1,15 @@
+D:\Programming\LC_Solutions\lc49\lc49\bin\Debug\net6.0\lc49.exe
+D:\Programming\LC_Solutions\lc49\lc49\bin\Debug\net6.0\lc49.deps.json
+D:\Programming\LC_Solutions\lc49\lc49\bin\Debug\net6.0\lc49.runtimeconfig.json
+D:\Programming\LC_Solutions\lc49\lc49\bin\Debug\net6.0\lc49.dll
+D:\Programming\LC_Solutions\lc49\lc49\bin\Debug\net6.0\lc49.pdb
+D:\Programming\LC_Solutions\lc49\lc49\obj\Debug\net6.0\lc49.csproj.AssemblyReference.cache
+D:\Programming\LC_Solutions\lc49\lc49\obj\Debug\net6.0\lc49.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\LC_Solutions\lc49\lc49\obj\Debug\net6.0\lc49.AssemblyInfoInputs.cache
+D:\Programming\LC_Solutions\lc49\lc49\obj\Debug\net6.0\lc49.AssemblyInfo.cs
+D:\Programming\LC_Solutions\lc49\lc49\obj\Debug\net6.0\lc49.csproj.CoreCompileInputs.cache
+D:\Programming\LC_Solutions\lc49\lc49\obj\Debug\net6.0\lc49.dll
+D:\Programming\LC_Solutions\lc49\lc49\obj\Debug\net6.0\refint\lc49.dll
+D:\Programming\LC_Solutions\lc49\lc49\obj\Debug\net6.0\lc49.pdb
+D:\Programming\LC_Solutions\lc49\lc49\obj\Debug\net6.0\lc49.genruntimeconfig.cache
+D:\Programming\LC_Solutions\lc49\lc49\obj\Debug\net6.0\ref\lc49.dll
