@@ -1,0 +1,15 @@
+D:\Programming\LC_Solutions\lc121\LC121_Csharp\obj\Debug\net6.0\LC121_Csharp.csproj.AssemblyReference.cache
+D:\Programming\LC_Solutions\lc121\LC121_Csharp\obj\Debug\net6.0\LC121_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\LC_Solutions\lc121\LC121_Csharp\obj\Debug\net6.0\LC121_Csharp.AssemblyInfoInputs.cache
+D:\Programming\LC_Solutions\lc121\LC121_Csharp\obj\Debug\net6.0\LC121_Csharp.AssemblyInfo.cs
+D:\Programming\LC_Solutions\lc121\LC121_Csharp\obj\Debug\net6.0\LC121_Csharp.csproj.CoreCompileInputs.cache
+D:\Programming\LC_Solutions\lc121\LC121_Csharp\bin\Debug\net6.0\LC121_Csharp.exe
+D:\Programming\LC_Solutions\lc121\LC121_Csharp\bin\Debug\net6.0\LC121_Csharp.deps.json
+D:\Programming\LC_Solutions\lc121\LC121_Csharp\bin\Debug\net6.0\LC121_Csharp.runtimeconfig.json
+D:\Programming\LC_Solutions\lc121\LC121_Csharp\bin\Debug\net6.0\LC121_Csharp.dll
+D:\Programming\LC_Solutions\lc121\LC121_Csharp\bin\Debug\net6.0\LC121_Csharp.pdb
+D:\Programming\LC_Solutions\lc121\LC121_Csharp\obj\Debug\net6.0\LC121_Csharp.dll
+D:\Programming\LC_Solutions\lc121\LC121_Csharp\obj\Debug\net6.0\refint\LC121_Csharp.dll
+D:\Programming\LC_Solutions\lc121\LC121_Csharp\obj\Debug\net6.0\LC121_Csharp.pdb
+D:\Programming\LC_Solutions\lc121\LC121_Csharp\obj\Debug\net6.0\LC121_Csharp.genruntimeconfig.cache
+D:\Programming\LC_Solutions\lc121\LC121_Csharp\obj\Debug\net6.0\ref\LC121_Csharp.dll

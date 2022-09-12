@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\LC_Solutions\\lc15\\lc15.csproj": {}
+    "D:\\Programming\\LC_Solutions\\lc121\\LC121_Csharp\\LC121_Csharp.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\LC_Solutions\\lc15\\lc15.csproj": {
+    "D:\\Programming\\LC_Solutions\\lc121\\LC121_Csharp\\LC121_Csharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\LC_Solutions\\lc15\\lc15.csproj",
-        "projectName": "lc15",
-        "projectPath": "D:\\Programming\\LC_Solutions\\lc15\\lc15.csproj",
+        "projectUniqueName": "D:\\Programming\\LC_Solutions\\lc121\\LC121_Csharp\\LC121_Csharp.csproj",
+        "projectName": "LC121_Csharp",
+        "projectPath": "D:\\Programming\\LC_Solutions\\lc121\\LC121_Csharp\\LC121_Csharp.csproj",
         "packagesPath": "C:\\Users\\dougl\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\LC_Solutions\\lc15\\obj\\",
+        "outputPath": "D:\\Programming\\LC_Solutions\\lc121\\LC121_Csharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dougl\\AppData\\Roaming\\NuGet\\NuGet.Config",

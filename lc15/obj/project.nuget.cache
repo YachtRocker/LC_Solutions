@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E51cpcVqKI1O3c6i5QimA10WrZs3T/5eP2ZiNWoFj7BJblQI48wBoT2KLfCSU6cWBsySE0XlqZqAggrARaodfw==",
+  "dgSpecHash": "9IbBRHifyiM0uD5GT47wf7RQb6aSm5225daT4iQnr5NvqZ2j74sxKsYbP2KRbRO7SAsyCbbNJjBiHE+pmiCnbg==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\leetcode\\LeetcodeSolutions\\lc15\\lc15.csproj",
+  "projectFilePath": "D:\\Programming\\LC_Solutions\\lc15\\lc15.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
