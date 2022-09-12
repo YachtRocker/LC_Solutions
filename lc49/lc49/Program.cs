@@ -1,27 +1,32 @@
 ﻿// Leetcode 49 - Group Anagrams
 
+// TODO - Get this to stop using the same items
+
 IList<IList<string>> GroupAnagrams(string[] strs)
 {
     var res = new List<IList<string>>();
-    List<string> cur = new List<string>();
+    var cur = new List<string>();
 
     if (strs.Length == 0)
     {
         return res;
     }
-
-    for (int i = 0; i < strs.Length; i++)
+    else if (strs.Length > 0)
     {
-        for (int j = 0; j < strs.Length; j++)
-        {
-            if (isAnagram(strs[i], strs[j]))
+        for (int i = 0; i < strs.Length; i++)
+        {            
+            for (int j = 0; j < strs.Length; j++)
             {
-                cur.Add(strs[j]);
-            }            
-        }
-        res.Add(cur);
+                if (isAnagram(strs[i], strs[j]))
+                {
+                    cur.Add(strs[j]);                    
+                }
+            }             
+            res.Add(cur);
+            cur = new List<string>();
+        }        
     }
-
+    
     return res;
 }
 
@@ -56,6 +61,7 @@ foreach (var list in res)
     foreach (var number in list)
     {
         Console.Write(number);
+        Console.Write(" ");
     }
     Console.Write("]");
 }
