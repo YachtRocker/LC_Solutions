@@ -1,0 +1,15 @@
+D:\Programming\LC_Solutions\lc217\lc217_csharp\lc217\lc217\obj\Debug\net6.0\lc217.csproj.AssemblyReference.cache
+D:\Programming\LC_Solutions\lc217\lc217_csharp\lc217\lc217\obj\Debug\net6.0\lc217.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\LC_Solutions\lc217\lc217_csharp\lc217\lc217\obj\Debug\net6.0\lc217.AssemblyInfoInputs.cache
+D:\Programming\LC_Solutions\lc217\lc217_csharp\lc217\lc217\obj\Debug\net6.0\lc217.AssemblyInfo.cs
+D:\Programming\LC_Solutions\lc217\lc217_csharp\lc217\lc217\obj\Debug\net6.0\lc217.csproj.CoreCompileInputs.cache
+D:\Programming\LC_Solutions\lc217\lc217_csharp\lc217\lc217\bin\Debug\net6.0\lc217.exe
+D:\Programming\LC_Solutions\lc217\lc217_csharp\lc217\lc217\bin\Debug\net6.0\lc217.deps.json
+D:\Programming\LC_Solutions\lc217\lc217_csharp\lc217\lc217\bin\Debug\net6.0\lc217.runtimeconfig.json
+D:\Programming\LC_Solutions\lc217\lc217_csharp\lc217\lc217\bin\Debug\net6.0\lc217.dll
+D:\Programming\LC_Solutions\lc217\lc217_csharp\lc217\lc217\bin\Debug\net6.0\lc217.pdb
+D:\Programming\LC_Solutions\lc217\lc217_csharp\lc217\lc217\obj\Debug\net6.0\lc217.dll
+D:\Programming\LC_Solutions\lc217\lc217_csharp\lc217\lc217\obj\Debug\net6.0\refint\lc217.dll
+D:\Programming\LC_Solutions\lc217\lc217_csharp\lc217\lc217\obj\Debug\net6.0\lc217.pdb
+D:\Programming\LC_Solutions\lc217\lc217_csharp\lc217\lc217\obj\Debug\net6.0\lc217.genruntimeconfig.cache
+D:\Programming\LC_Solutions\lc217\lc217_csharp\lc217\lc217\obj\Debug\net6.0\ref\lc217.dll
